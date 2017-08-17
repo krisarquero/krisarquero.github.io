@@ -1,0 +1,56 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    padding: 16px 25px 5px;
+
+}
+
+.container {
+    padding: 10px 16px 10px;
+    background :#004d4d ;
+}
+
+.title {
+    font-size: 18px;
+    color :white;
+
+}
+.body-bg {
+    background-image: url(bg.jpg);
+
+}
+
+#photo {
+    
+    width: 100%;
+}
+.about {
+    
+    max-width: 150px;
+    margin: auto;
+    text-align: center;
+    line-height: 5px;
+    color :white;
+
+}
+#expect {
+    line-height: 10px;
+    color :white;
+
+
+}
+
+#contact {
+    padding :5x 5x;
+    color :white;
+
+}
+#name{
+    color :white;
+    font-size: 30px
+}
+h1 {
+    color : #004d4d;
+}
